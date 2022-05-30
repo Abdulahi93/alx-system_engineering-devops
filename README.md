@@ -1,1 +1,1 @@
-How to know Where I am
+ our shell assignment
